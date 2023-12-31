@@ -1,0 +1,19 @@
+python-dotenv
+langchain
+openai
+google-api-python-client # Google API
+google-search-results # SerpAPI
+youtube-transcript-api
+chromadb
+tiktoken
+faiss-cpu
+wikipedia
+psycopg2
+pinecone-client
+pgvector
+cohere
+streamlit==1.22.0
+unstructured==0.9.2
+libmagic==1.0
+python-magic==0.4.27
+python-magic-bin==0.4.14
