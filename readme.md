@@ -23,7 +23,7 @@ NewBot is a user-friendly news research tool designed for effortless information
 2.Navigate to the project directory:
 
 ```bash
-  cd LLM_Finance
+  cd NewBot
 ```
 3. Install the required dependencies using pip:
 
